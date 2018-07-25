@@ -735,3 +735,4 @@ options		CONFIG_REQUIRES_U32_MUNGING	# incoming U32 argument structures must be 
 #
 options		COPYOUT_SHIM			# Shim for copyout memory analysis via kext #<copyout_shim>
 
+options		CONFIG_EMBEDDED			# <config_embedded>
